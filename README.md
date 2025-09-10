@@ -33,8 +33,8 @@ intern-2025-q7/
 
 1. **Clone the repository:**
 	```bash
-	git clone https://github.com/HarshRajj/intern-2025-q7.git
-	cd intern-2025-q7
+	git clone https://github.com/HarshRajj/07-chatbot-with-LRU-caching.git
+	cd 07-chatbot-with-LRU-caching
 	```
 2. **Install dependencies:**
 	```bash
